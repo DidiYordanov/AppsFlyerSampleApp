@@ -1,0 +1,49 @@
+#content {
+  text-align: center; 
+}
+
+#appsflyer {
+    
+}
+
+#monaca {
+  width: 120px;
+  height: 120px;
+}
+
+#getUserID {
+  margin: 20px 10px 20px 10px;  
+}
+
+#sendEvent {
+  margin: 20px 10px 20px 10px;
+}
+
+#devID {
+  margin: 20px 10px 20px 10px;  
+}
+
+.button {
+  width: 120px;
+  height: auto;
+  position: relative;
+  display: inline-block;
+  vertical-align: top;
+  color: rgba(24,103,194,0.81);
+  background: transparent;
+  border: 1px solid rgba(24,103,194,0.81);
+  font-family: 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;
+  font-size: 14px;
+  padding: 8px 10px;
+  vertical-align: middle;
+  border-radius: 3px;
+}
+.button:active {
+  background-color: rgba(24, 103, 194, 0.2);
+  border: 1px solid rgba(24,103,194,0.81);
+  color: rgba(24,103,194,0.81);
+  opacity: 1;
+}
+.button:focus {
+  outline: 0;
+}
