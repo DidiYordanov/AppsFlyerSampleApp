@@ -1,4 +1,4 @@
-# AppsFlyerSampleApp
+# AppsFlyer Sample App
 
 
 This App was developed with Monaca Cloud IDE and it's using the modified version of PhoneGap AppsFlyer plugin for Android and iOS.
