@@ -1,8 +1,8 @@
 # AppsFlyerSampleApp
 
 
-This App is made with Monaca Cloud IDE and it's using the modified version of PhoneGap AppsFlyer plugin for Android and iOS.
-Use the modified plugin working with Monaca Cloud IDE from [here](https://github.com/DidiYordanov/com.appsflyer.phonegap.plugins.appsflyer). 
+This App was developed with Monaca Cloud IDE and it's using the modified version of PhoneGap AppsFlyer plugin for Android and iOS.
+Used plugin works with Monaca Cloud IDE from [here](https://github.com/DidiYordanov/com.appsflyer.phonegap.plugins.appsflyer). 
 
-## And the App looks like this: 
+## App's landing page:
 ![](/img/appsflyermobileapp.png)
